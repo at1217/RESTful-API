@@ -1,4 +1,6 @@
-Result = 
+#Amon Tokoro - at3250
+
+Result =
 [{"people": {"playerID": "willite01", "nameLast": "Williams", "nameFirst": "Ted"}}, {"batting": {"G_all": "113", "GS": "87"}}, {"appearances": {"AB": "310", "H": "98"}}]
 [
   {
