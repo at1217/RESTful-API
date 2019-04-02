@@ -1,0 +1,8 @@
+Result = 
+{
+  "YouSent": "Some JSON. Cool!",
+  "Note": "The cool kids use JSON.",
+  "YourJSONWas": {
+    "p": "cool"
+  }
+}
