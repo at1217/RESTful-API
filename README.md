@@ -1,7 +1,8 @@
-# W4111_HW2
-Project template for HW2
-
-Amon Tokoro - at3250
+# RESTful-API
 
 
-Due to a hectic schedule before the spring break, I talked to Prof. Ferguson and also received his email saying I did not worry about this homework until the end of spring break. 
+Amon Tokoro 
+
+
+This is the project of W4111 Introduction to Databases taught by Prof. Donald Ferguson. 
+The purpose of this project is to implement the CRUD operations.
